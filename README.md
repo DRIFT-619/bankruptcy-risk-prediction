@@ -67,7 +67,7 @@ The repeated appearance of the same features across three independent importance
 
 A SHAP force plot breaking down exactly why the model correctly flagged one bankrupt company — showing which features pushed the prediction toward "high risk" and by how much.
 
-![SHAP Force Plot Case Study](Images/shap-force-plot-case-study.png)
+![SHAP Force Plot Case Study](images/shap-force-plot-case-study.png)
 
 ## Business Recommendations
 
