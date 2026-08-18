@@ -1,0 +1,24 @@
+# Problem statement & presentation — not original analytical work, excluded from repo
+Bankruptcy Prediction Project.pdf
+Bankruptcy_Prediction_Presentation.pptx
+*.pptx
+*.pdf
+
+# Raw dataset — provided under a placement/selection assessment, not for redistribution
+BANKRUPTCY PREDICTION *.csv
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
